@@ -1,3 +1,15 @@
+# Figma Plugin Template
+
+<img src="image.png" width="300" alt="Plugin Template">
+
+TypeScript를 사용하여 Figma 플러그인을 구축하기 위한 템플릿으로, OpenAI API, Figma의 clientStorage 및 클립보드 기능 등을 사용한 예시입니다. 다음의 기능이 구현되어 있습니다.:
+
+- AI 기반 기능을 위한 OpenAI API 연결
+- Figma의 clientStorage API를 사용한 데이터 유지
+- 클립보드로 복사하는 기능 구현
+
+## Getting Started
+
 Below are the steps to get your plugin running. You can also find instructions at:
 
   https://www.figma.com/plugin-docs/plugin-quickstart-guide/
