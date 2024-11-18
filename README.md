@@ -10,6 +10,11 @@ TypeScript를 사용하여 Figma 플러그인을 구축하기 위한 템플릿�
 
 ## Getting Started
 
+> [!NOTE]
+> 플러그인을 테스트하기 전에 반드시 TypeScript 코드(code.ts)를 JavaScript(code.js)로 컴파일해야 합니다. Visual Studio Code에서 `Terminal > Run Build Task...` 메뉴를 실행하고 "npm: watch"를 선택하여 컴파일을 시작할 수 있습니다.
+
+## Figma Plugin Quickstart Guide
+
 Below are the steps to get your plugin running. You can also find instructions at:
 
   https://www.figma.com/plugin-docs/plugin-quickstart-guide/
